@@ -31,6 +31,12 @@ I. Connect the multimeter at the output of kit..
 <img width="1600" height="1076" alt="WhatsApp Image 2026-05-24 at 6 29 30 PM" src="https://github.com/user-attachments/assets/dbecc996-c295-4362-a3a2-5a25f32f5006" />
 
 
+<img width="925" height="653" alt="image" src="https://github.com/user-attachments/assets/0aba00f2-d95b-49a4-bcca-634395bb1e05" />
+
+
+<img width="939" height="544" alt="image" src="https://github.com/user-attachments/assets/a95e792b-d958-45ef-bbf7-1ff1a8be5317" />
+
+
 ## OBSERVATION TABLE:
 
 <img width="1600" height="900" alt="WhatsApp Image 2026-05-24 at 6 29 30 PM (1)" src="https://github.com/user-attachments/assets/8cce8293-601a-4872-96d9-3ec40855f943" />
